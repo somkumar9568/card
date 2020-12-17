@@ -1,0 +1,6 @@
+.card__listItem {
+  color: white;
+}
+.card__listItem:not(:last-of-type) {
+  margin-bottom: 1rem;
+}

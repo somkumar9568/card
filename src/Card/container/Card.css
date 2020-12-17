@@ -1,0 +1,14 @@
+.card {
+  position: relative;
+  width: 26.7rem;
+  height: 37.6rem;
+  max-width: 26.7rem;
+  max-height: 37.5rem;
+  margin: 4rem auto;
+  background: #ffffff;
+  box-shadow: -0.4rem -0.4rem 1.4rem rgba(207, 218, 255, 0.25),
+    0.4rem 0.4rem 1.4rem -2px rgba(207, 218, 255, 0.495981);
+  border-radius: 6px;
+  padding: 2rem;
+  box-sizing: border-box;
+}
